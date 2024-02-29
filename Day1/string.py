@@ -20,3 +20,5 @@ inp2= int(input("What is your number:"))
 
 #print=int(input("What is your number:"))
 print(inp1 + inp2)
+
+
